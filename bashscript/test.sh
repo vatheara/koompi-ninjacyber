@@ -1,6 +1,4 @@
 #!/bin/bash
-clear
-ls
 STRING="Hello World"
 echo $STRING
 read -p "May i know your name please!" name
