@@ -19,24 +19,24 @@ Infomation Gathering
 
 ### *koompi.com use
 +Ecommerce<br>
--Cart Functionality<br>
+-Cart Functionality<br><br>
 +Analytics<br>
--Google Analytics<br>
+-Google Analytics<br><br>
 +JavaScript frameworks<br>
 -React<br>
--Ant Design<br>
+-Ant Design<br><br>
 +Font scripts<br>
--Google Font API<br>
+-Google Font API<br><br>
 +Web frameworks<br>
--Express<br>
+-Express<br><br>
 +Web servers<br>
--Express<br>
+-Express<br><br>
 +Programming languages<br>
--Node.js<br>
+-Node.js<br><br>
 +CDN<br>
--Cloudflare<br>
+-Cloudflare<br><br>
 +JavaScript libraries<br>
 -Lodash 4.17.15<br>
--jQuery 2.2.4<br>
+-jQuery 2.2.4<br><br>
 +Social login<br>
--Facebook Sign+in<br>
+-Facebook Sign+in<br><br>
